@@ -1,0 +1,2 @@
+# code
+Abhishek hates Math. He wants to use his own set of rules for Maths. He discovered a new formula to compare two numbers. A positive integer number N is greater than positive integer number M if the sum of all the digits of N is greater than the sum of all the digits of M. If the sum of digits of numbers N and M are equal then both numbers are equal. Output the greatest number between N and M according to the given rules. If N and M are equal then print -1.
